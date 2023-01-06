@@ -1,0 +1,155 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.first-section{
+  background-image: url(new-year-new-me/images/banner/banner1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 809px;
+  width: 100%;
+  text-align: center;
+  background-position: bottom left;
+
+}
+section h1{
+font-weight: 700;
+font-size: 50px;
+text-align: center;
+padding-top: 200px;
+margin-left: 40%;
+margin-bottom: 20px;
+
+}
+.title-description-2{
+  font-size: 16px;
+  color: #444343;
+  margin-left: 40%;
+}
+.btn{
+  font-weight: 600;
+  font-size: 20px;
+  color: #FFFFFF;
+  background: #F15B22;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0;
+  text-align: right;
+  margin-left: 50%;
+  margin-left: 600px;
+  margin-top: 70px;
+}
+/* about section styles */
+.about{
+  height:408px;
+  width: 433px;
+ margin-top: 1172 818px; 
+ text-align: right;
+ margin-left: 570px;
+
+
+
+}
+main{
+  max-width: 1141px;
+}
+.section-title{
+  text-align: center;
+  margin-left: 300px;
+}
+/* Plans section */
+.Plans{
+  margin-top: 130px;
+}
+.skills-container{
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+.skill{
+  padding: 30px;
+}
+.skill-title{
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+  text-align: center;
+  line-height: 35px;
+  margin-left: 50px;
+  align-items: center;
+  padding-left: 70px;
+  
+}
+.skill-description{
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  margin-left: 50px;
+  padding-left: 70px;
+}
+.skill-img1{
+  margin-left: 80px;
+  padding-left: 70px;
+}
+.skill-img2{
+  margin-left: 80px;
+  padding-left: 70px;
+}
+.skill-img3{
+  margin-left: 80px;
+  padding-left: 70px;
+}
+.skill-img4{
+  margin-left: 80px;
+  padding-left: 70px;
+}
+/* contact styles */
+.contact .section-title{
+  text-align: left;
+}
+.contact{
+  display: flex;
+  gap: 100px;
+  background: #151414;
+  color: #FFFFFF;
+  padding: 130px 200px;
+  
+}
+.section-title{
+  font-weight: 700;
+  font-size: 45px;
+  margin-left: 3px;
+}
+.section-title1{
+  font-weight: 600;
+  font-size: 25px;
+  margin-bottom: 31px;
+
+}
+.section-description{
+ margin-bottom: 20px;
+}
+.section-description-2{
+  margin-bottom: 10px;
+}
+.contact input{
+  margin-bottom:24px ;
+  border: 1px solid white;
+  background-color: #151414;
+  color: #F3F3F3;
+  font-size: 18px;
+  padding: 10px;
+  margin-bottom: 16px;
+  width: 100%;
+}
+.contact a{
+  text-decoration: none;
+  margin-top: 20px;
+}
+.btn-3{
+  color: #F15B22;
+  margin-bottom: 243px;
+  height: 64px;
+  width: 170.11px;
+  cursor: pointer;
+}
